@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Alerte Cobra 4K" group-title="Divertissement",Alerte Cobra 4K
+https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6477-playout/0d45fdb0-7621-4f1a-ba7e-815e27534e21/3.m3u8
+
+#EXTINF:-1 tvg-name="BFM Tech 4K" group-title="Info",BFM Tech 4K
+https://live-cdn-technco-rmcbfm-main-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-name="TF1 4K" group-title="Généraliste",TF1 4K
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Ftf1fr
+
+#EXTINF:-1 tvg-name="M6 4K" group-title="Généraliste",M6 4K
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Fm6fr
+
+#EXTINF:-1 tvg-name="beIN Sports 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Sport",beIN Sports 1 4K
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Fbeinsport1fr
+
+#EXTINF:-1 tvg-name="Eurosport+" group-title="Sport",Eurosport+
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Feuro1fr
+
+#EXTINF:-1 tvg-name="Canal+ 360" group-title="Sport",Canal+ 360
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Fcanals360
+
+#EXTINF:-1 tvg-name="Canal+ Sport" group-title="Sport",Canal+ Sport
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Fcanalsportfr
+
+#EXTINF:-1 tvg-name="Canal+ Foot" group-title="Sport",Canal+ Foot
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Ffootplusfr
+
+#EXTINF:-1 tvg-name="RMC Sport 1 8K" group-title="Sport",RMC Sport 1 8K
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Frmcsport1fr
+
+#EXTINF:-1 tvg-name="RMC Sport 2 8K" group-title="Sport",RMC Sport 2 8K
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Frmcsport2fr
+
+#EXTINF:-1 tvg-name="beIN Sports 2 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Sport",beIN Sports 2 8K
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Fbeinsport2fr
+
+#EXTINF:-1 tvg-name="beIN Sports 3 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Sport",beIN Sports 3 8K
+https://pelutqecostgwftxbwco.supabase.co/functions/v1/hls-proxy?url=https%3A%2F%2Fsportsbite.org%2F247%2Fbeinsport3fr
+
+#EXTINF:-1 tvg-name="France TV Archive INA" group-title="Généraliste",France TV Archive INA
+https://live-ssai-p.ftven.fr/ZXhwPTE3OTIwMTM4NTF+YWNsPSUyZip+aG1hYz04MTkzNWU0ODRlNWMyNTA2ZGQzNGFhMDZiYmI1YzIzYmE5YTM3MjlmY2YxNT
+
+#EXTINF:-1 tvg-name="Film Thriller Rakuten TV" group-title="Cinéma",Film Thriller Rakuten TV
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479
+
+#EXTINF:-1 tvg-name="Le Figaro TV" group-title="Info",Le Figaro TV
+https://static.lefigaro.fr/secom/tnt.m3u8
+
+#EXTINF:-1 tvg-name="LCP Info" group-title="Info",LCP Info
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+
+#EXTINF:-1 tvg-name="Sony One" group-title="Divertissement",Sony One
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f
+
+#EXTINF:-1 tvg-name="Scream In" group-title="Cinéma",Scream In
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Séries & Crime Rakuten TV" group-title="Cinéma",Séries & Crime Rakuten TV
+https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6
+
+#EXTINF:-1 tvg-name="Euronews" group-title="Info",Euronews
+https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6564-r
+
+#EXTINF:-1 tvg-name="Mayday Avion Crash H24" group-title="Documentaire",Mayday Avion Crash H24
+https://amg01821-amg01821c40-rakuten-fr-10668.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaycatastroph
+
+#EXTINF:-1 tvg-name="C'est Pas Sorcier 4K" group-title="Documentaire",C'est Pas Sorcier 4K
+https://amg30706-amg30706c2-amgplt0145.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg30706-amg30706c2-amgplt0145/playlist.m3u8?a
+
+#EXTINF:-1 tvg-name="Les Secrets de Nos Régions 4K" group-title="Documentaire",Les Secrets de Nos Régions 4K
+https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenu
+
+#EXTINF:-1 tvg-name="Adrénaline Police+ Rakuten TV" group-title="Documentaire",Adrénaline Police+ Rakuten TV
+https://fast-rakuten.okast.tv/channels/67ddfddb-272d-43d1-ab80-81ec4d549099/2cb5d0ee-1b44-466b-a1e4-e7dfd6666870/master.m3u8
+
+#EXTINF:-1 tvg-name="Les Détectives" group-title="Divertissement",Les Détectives
+https://7577cf23.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0xlc0RldGVjdGl2ZXNfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Enquête de Choc - Contrôle Police H24" group-title="Documentaire",Enquête de Choc - Contrôle Police H24
+https://fastmedia-enquetesdechoc-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-enquetesdechoc-rakuten/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Le Meilleur de la TV Réalité 4K" group-title="Divertissement",Le Meilleur de la TV Réalité 4K
+https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/
+
+#EXTINF:-1 tvg-name="Les Anges H24 Live" group-title="Divertissement",Les Anges H24 Live
+https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u
+
+#EXTINF:-1 tvg-name="Pingu TV" group-title="Jeunesse",Pingu TV
+https://pingu-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-7634-playout/master.m3u8
